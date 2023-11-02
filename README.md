@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on:  NYC_taxis_co2 as my final project for 
+🔭 I’m currently working on:  NYC_taxis_co2 as my final project for my Data Science Carreer
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alvarezalexiscv/)
 <!--
