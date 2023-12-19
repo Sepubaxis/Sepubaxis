@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on:  NYC_taxis_co2 as my final project for my Data Science Carreer
+🔭 I’m currently working on:  NYC_taxis_co2 as my final project for my Data Science Carreer (Finished)
 
 ⚡ Techs: Python, pandas, scklearn, matplot, seaborn
 
@@ -8,6 +8,7 @@
 ⚡ Power bi, Data Visualization, metrics and KPI's
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alvarezalexiscv/)
+⚡ Fun fact: I play Violin and im a gamer 😄
 <!--
 **Sepubaxis/Sepubaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
